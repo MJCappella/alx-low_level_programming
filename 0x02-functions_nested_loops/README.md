@@ -1,1 +1,1 @@
-This are nested loop operations
+These are nested loop operations
