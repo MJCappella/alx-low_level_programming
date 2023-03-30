@@ -7,8 +7,8 @@
  *
  * Return: A pointer to the converted string.
  */
+int main(void){
 char *cap_string(char *str)
-{
 	int word = 0;
 
 	while (str[word])
@@ -37,4 +37,3 @@ char *cap_string(char *str)
 
 	return (str);
 }
-
