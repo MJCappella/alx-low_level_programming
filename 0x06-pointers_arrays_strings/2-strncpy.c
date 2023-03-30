@@ -7,7 +7,7 @@
  *
  * Return: dest
  */
-char *_strncpy(char *inp, char onp, int o)
+char *_strncpy(char *inp, char *onp, int o)
 {
 	int j;
 
