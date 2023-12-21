@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * pop_listint - deletes the head node 
- * @head: pointer to the first element 
+ * pop_listint - deletes the head node
+ * @head: pointer to the first element
  *
  * Return: deleted elements data
  * or NULL if the list is empty
