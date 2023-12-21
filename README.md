@@ -1,1 +1,3 @@
-# more singly linked lists
+# ALX-LOW LEVEL PROGRAMMING
+
+In this repo, we use the low level language C to perform various operations during our learning process. Some of these operations include and are not limited to memory allocation, function manipulation, data structures, variables among many others...
