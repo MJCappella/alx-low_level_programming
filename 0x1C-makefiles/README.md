@@ -1,7 +1,6 @@
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+# General
+--This directory contains files which describe the following:--
 
-General
 What are make, Makefiles
 When, why and how to use Makefiles
 What are rules and how to set and use them
